@@ -1,0 +1,103 @@
+\section{Gauss diagram formulae of low orders}
+\label{sec:GDF}
+
+The Gauss diagram formulae used in this paper are listed below.  
+$v_2$ uses the formula from \cite{PolyakViro94}. 
+$v_3$ uses the formula from \cite{Zhang23}. 
+$v_{4,1}$ and $v_{4,2}$ listed here are new expressions. 
+% The blue dot is the base point, and the circle is read counterclockwise.  Each black arrow is
+% unsigned in the sense of \Cref{sec:Gauss_diagrams}, so an occurrence is
+% weighted by the product of the corresponding crossing signs.  In the formula
+% for \(J\), a red arrow marked \(+\) is required to match a positive crossing
+% and contributes weight \(1\).
+
+\newcommand{\gdfterm}[1]{%
+  \raisebox{-.42\height}{%
+    \includegraphics[height=1.5cm]{figures/GDF/#1.pdf}}}
+
+\begin{equation*}
+  v_2=\gdfterm{v2}.
+  \label{eq:gdf-v2}
+\end{equation*}
+ 
+% With the normalization \(v_3(3_1^+)=1\), the formula of \cite[Corollary~4.1]{Zhang23} is
+\begin{equation*}
+  \begin{aligned}
+  v_3={}&
+  \gdfterm{v3_01}
+  +\gdfterm{v3_02}
+  +\gdfterm{v3_03}
+  +\gdfterm{v3_04}
+  +\gdfterm{v3_05}.
+  \end{aligned}
+  \label{eq:gdf-v3}
+\end{equation*}
+
+% The two primitive invariants of order four are given by
+\begin{equation*}
+  \begin{aligned}
+  v_{4,1}={}&
+  \gdfterm{J_01}
+  +\gdfterm{J_02}
+  +\gdfterm{J_03}
+  +\gdfterm{J_04}
+  +\gdfterm{J_05}
+  +\gdfterm{J_06}
+  +\gdfterm{J_07}
+  +\gdfterm{J_08}
+  \\[.4em] 
+  &+\gdfterm{J_09}
+  +\gdfterm{J_10}
+  -\gdfterm{J_11}
+  +\gdfterm{J_12}
+  +\gdfterm{J_13}
+  +\gdfterm{J_14}
+  +\gdfterm{J_15}.
+  \end{aligned}
+  \label{eq:gdf-J}
+\end{equation*}
+
+\begin{equation*}
+  \begin{aligned}
+  v_{4,2}={}&
+  2\,\gdfterm{E_01}
+  +2\,\gdfterm{E_02}
+  +\gdfterm{E_03}
+  -\gdfterm{E_04}
+  +2\,\gdfterm{E_05}
+  +2\,\gdfterm{E_06}
+  -\gdfterm{E_07}
+  -\gdfterm{E_08}
+  \\[.4em]
+  &+3\,\gdfterm{E_09}
+  +\gdfterm{E_10}
+  -\gdfterm{E_11}
+  +\gdfterm{E_12}
+  +\gdfterm{E_13}
+  +3\,\gdfterm{E_14}
+  +\gdfterm{E_15}
+  +\gdfterm{E_16}
+  \\[.4em]
+  &+2\,\gdfterm{E_17}
+  -\gdfterm{E_18}
+  +\gdfterm{E_19}
+  +\gdfterm{E_20}
+  +\gdfterm{E_21}
+  +3\,\gdfterm{E_22}
+  +\gdfterm{E_23}
+  +\gdfterm{E_24}
+  \\[.4em]
+  &+\gdfterm{E_25}
+  +\gdfterm{E_26}
+  +3\,\gdfterm{E_27}
+  +\gdfterm{E_28}
+  +3\,\gdfterm{E_29}
+  -\gdfterm{E_30}
+  \\[.4em]
+  &+\gdfterm{E_31}
+  +\gdfterm{E_32}
+  -\gdfterm{E_33}
+  +\gdfterm{E_34}.
+  \end{aligned}
+  \label{eq:gdf-E}
+\end{equation*}

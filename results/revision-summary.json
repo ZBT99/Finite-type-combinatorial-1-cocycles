@@ -1,0 +1,41 @@
+{
+  "version": "1.1.0",
+  "date": "2026-09-28",
+  "original_archive_sha256": "1b83e5d170b4b936ae4ec3f1433252b9be2f36df6ea2b6053f5a29003ef7733f",
+  "mathematical_source_data_provenance_files_byte_identical": 30,
+  "tests_passed": 13,
+  "cube_outside_arc_cases_checked": 5760,
+  "tetra_outside_arc_cases_checked": 1440,
+  "local": {
+    "cube_cores": 144,
+    "cube_one_arrow_cases": 5760,
+    "cube_raw_nonzero": [
+      16,
+      0,
+      0
+    ],
+    "tetra_cores": 24,
+    "tetra_one_arrow_cases": 1440,
+    "tetra_raw_nonzero": [
+      122,
+      372,
+      56
+    ],
+    "dr3_cases": 23040,
+    "dr3_failures": 0,
+    "certificates": "PASS",
+    "matcher_audit": {
+      "events": 115680,
+      "native_comparisons": 0
+    },
+    "elapsed_seconds": 11.48
+  },
+  "loop_cases": 136,
+  "loop_failures": 0,
+  "original_mathematical_certificates_and_commutation_records_identical": true,
+  "original_loop_results_identical": true,
+  "native_matcher_used_in_revision_run": false,
+  "browser_checks_passed": 29,
+  "offline_links_and_anchors": "PASS",
+  "wheel_build_and_installed_replay": "PASS"
+}

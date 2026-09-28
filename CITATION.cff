@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using these computations."
+title: "Exact verification of order-four combinatorial 1-cocycles"
+authors:
+  - family-names: Zhang
+    given-names: Butian
+version: 1.2.0
+date-released: 2026-09-28
+type: software

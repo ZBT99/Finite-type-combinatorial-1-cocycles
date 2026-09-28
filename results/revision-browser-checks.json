@@ -1,0 +1,168 @@
+{
+  "checks": [
+    {
+      "file": "reading-guide.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "reading-guide.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "cube-1-1-beta1.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "cube-1-1-beta1.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-1-beta1.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-1-beta1.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-2-beta2.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-2-beta2.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-17-beta3.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "tetra-17-beta3.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "commute-beta2.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "commute-beta2.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "rolling-4_1.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "rolling-4_1.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "half-rolling-6_1.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "half-rolling-6_1.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "bracket-4_1-3_1.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "bracket-4_1-3_1.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "formulas.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "formulas.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "index.html",
+      "width": 1120,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "overflow": false,
+      "offenders": []
+    },
+    {
+      "anchor_opens_case16": true
+    },
+    {
+      "expanded_case16_overflow": false
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "invalid": false
+    },
+    {
+      "route": "/guide",
+      "status": 200,
+      "invalid": false
+    },
+    {
+      "route": "/case?family=cube&template=1&rotation=1&beta=beta1",
+      "status": 200,
+      "invalid": false
+    },
+    {
+      "route": "/case?family=tetra&case=17&beta=beta3",
+      "status": 200,
+      "invalid": false
+    },
+    {
+      "route": "/case?family=commute&u=0&v=2&a=3&beta=beta2",
+      "status": 200,
+      "invalid": false
+    }
+  ],
+  "errors": []
+}

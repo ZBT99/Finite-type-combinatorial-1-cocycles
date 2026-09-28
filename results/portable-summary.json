@@ -1,0 +1,29 @@
+{
+  "native_disabled": true,
+  "local": {
+    "cube_cores": 144,
+    "cube_one_arrow_cases": 5760,
+    "cube_raw_nonzero": [
+      16,
+      0,
+      0
+    ],
+    "tetra_cores": 24,
+    "tetra_one_arrow_cases": 1440,
+    "tetra_raw_nonzero": [
+      122,
+      372,
+      56
+    ],
+    "dr3_cases": 23040,
+    "dr3_failures": 0,
+    "certificates": "PASS",
+    "matcher_audit": {
+      "events": 115680,
+      "native_comparisons": 0
+    },
+    "elapsed_seconds": 12.77
+  },
+  "loop_cases": 136,
+  "identical_to_native_audited_run": true
+}

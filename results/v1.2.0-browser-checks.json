@@ -1,0 +1,277 @@
+{
+  "checks": [
+    {
+      "lang": "en",
+      "file": "bracket-4_1-3_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "bracket-4_1-3_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "commute-beta2.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "commute-beta2.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "cube-1-1-beta1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "cube-1-1-beta1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "formulas.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "formulas.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "half-rolling-6_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "half-rolling-6_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "index.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "index.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "reading-guide.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "reading-guide.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "rolling-4_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "rolling-4_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-1-beta1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-1-beta1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-17-beta3.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-17-beta3.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-2-beta2.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "file": "tetra-2-beta2.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "bracket-4_1-3_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "bracket-4_1-3_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "commute-beta2.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "commute-beta2.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "cube-1-1-beta1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "cube-1-1-beta1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "formulas.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "formulas.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "half-rolling-6_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "half-rolling-6_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "index.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "index.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "reading-guide.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "reading-guide.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "rolling-4_1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "rolling-4_1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-1-beta1.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-1-beta1.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-17-beta3.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-17-beta3.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-2-beta2.html",
+      "width": 1120,
+      "overflow": false
+    },
+    {
+      "lang": "zh",
+      "file": "tetra-2-beta2.html",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "expanded_bracket_overflow": false
+    },
+    {
+      "lang": "zh",
+      "expanded_bracket_overflow": false
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "order4-cocycle-verification"
+version = "1.2.0"
+description = "Exact, inspectable verification of combinatorial order-four 1-cocycles"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "sympy>=1.12", "numba>=0.59", "tqdm>=4.66"]
+
+[project.optional-dependencies]
+notebook = ["jupyter", "ipywidgets"]
+
+[project.scripts]
+cocycle = "cocycle.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["cocycle*"]
+
+[tool.setuptools.package-data]
+cocycle = ["data/*.json", "data/*.npy", "data/modp/*.npy"]

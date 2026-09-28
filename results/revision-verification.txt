@@ -1,0 +1,45 @@
+Cube enumeration: [{'equation': 'cube', 'extra': 0, 'cases': 144, 'failures': 0}, {'equation': 'cube', 'extra': 1, 'cases': 5760, 'failures': 16}]
+Tetrahedron: all 24 cores certified.
+R3-R3: first type 1/48
+R3-R3: first type 9/48
+R3-R3: first type 17/48
+R3-R3: first type 25/48
+R3-R3: first type 33/48
+R3-R3: first type 41/48
+Loop checks: 3_1+
+Loop checks: 3_1-
+Loop checks: 4_1
+Loop checks: 5_1
+Loop checks: 5_2
+Loop checks: 6_1
+Loop checks: 6_2
+Loop checks: 6_3
+Additional knot-table checks: 100 PASS.
+{
+  "local": {
+    "cube_cores": 144,
+    "cube_one_arrow_cases": 5760,
+    "cube_raw_nonzero": [
+      16,
+      0,
+      0
+    ],
+    "tetra_cores": 24,
+    "tetra_one_arrow_cases": 1440,
+    "tetra_raw_nonzero": [
+      122,
+      372,
+      56
+    ],
+    "dr3_cases": 23040,
+    "dr3_failures": 0,
+    "certificates": "PASS",
+    "matcher_audit": {
+      "events": 115680,
+      "native_comparisons": 0
+    },
+    "elapsed_seconds": 11.48
+  },
+  "loop_cases": 136,
+  "loop_failures": 0
+}

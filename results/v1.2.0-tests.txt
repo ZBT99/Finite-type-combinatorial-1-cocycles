@@ -1,0 +1,21 @@
+test_cube_terms_6_and_10 (test_mathematics.MathematicalChecks.test_cube_terms_6_and_10) ... ok
+test_detailed_embeddings_match_independent_reference (test_mathematics.MathematicalChecks.test_detailed_embeddings_match_independent_reference) ... ok
+test_every_manuscript_vector_diagram (test_mathematics.MathematicalChecks.test_every_manuscript_vector_diagram) ... ok
+test_gauss_validation (test_mathematics.MathematicalChecks.test_gauss_validation) ... ok
+test_half_rolling_not_an_arbitrary_half (test_mathematics.MathematicalChecks.test_half_rolling_not_an_arbitrary_half) ... ok
+test_paper_invariant_values_and_basepoint (test_mathematics.MathematicalChecks.test_paper_invariant_values_and_basepoint) ... ok
+test_replay_and_corrupted_certificate_rejection (test_mathematics.MathematicalChecks.test_replay_and_corrupted_certificate_rejection) ... ok
+test_rolling_direction_and_trace_conservation (test_mathematics.MathematicalChecks.test_rolling_direction_and_trace_conservation) ... ok
+test_virtual_cube_failure_is_not_hidden (test_mathematics.MathematicalChecks.test_virtual_cube_failure_is_not_hidden) ... ok
+test_all_editions_have_same_structure_geometry_and_raw_data (test_report_editions.ReportEditionChecks.test_all_editions_have_same_structure_geometry_and_raw_data) ... ok
+test_gray_arrowhead_is_fixed_size_and_clear_of_endpoint (test_report_editions.ReportEditionChecks.test_gray_arrowhead_is_fixed_size_and_clear_of_endpoint) ... ok
+test_language_context_restored (test_report_editions.ReportEditionChecks.test_language_context_restored) ... ok
+test_all_cube_arc_labels_match_residual_polynomial (test_report_geometry.ReportGeometryChecks.test_all_cube_arc_labels_match_residual_polynomial) ... ok
+test_all_tetra_arc_labels_match_residual_polynomial (test_report_geometry.ReportGeometryChecks.test_all_tetra_arc_labels_match_residual_polynomial) ... ok
+test_case_16_and_18_smoothing_explanation (test_report_geometry.ReportGeometryChecks.test_case_16_and_18_smoothing_explanation) ... ok
+test_commute_six_blocks_survive_each_event (test_report_geometry.ReportGeometryChecks.test_commute_six_blocks_survive_each_event) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 10.280s
+
+OK

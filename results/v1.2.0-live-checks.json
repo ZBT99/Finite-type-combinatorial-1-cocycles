@@ -1,0 +1,38 @@
+[
+  {
+    "route": "/",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  },
+  {
+    "route": "/guide",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  },
+  {
+    "route": "/case?family=cube&template=1&rotation=1&beta=beta1",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  },
+  {
+    "route": "/case?family=tetra&case=17&beta=beta3",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  },
+  {
+    "route": "/case?family=commute&u=0&v=2&a=3&beta=beta2",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  },
+  {
+    "route": "/loop?kind=bracket&knot=4_1&other=3_1%2B",
+    "english": true,
+    "chinese": true,
+    "switch_preserves_case": true
+  }
+]

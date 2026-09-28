@@ -1,0 +1,22 @@
+{
+  "version": "1.2.0",
+  "date": "2026-09-28",
+  "based_on_archive_sha256": "c5716f98390fc65f327dc417f8ffe48ff4e29665b0b09159cdd3f9e4e0c1e573",
+  "unit_tests_passed": 16,
+  "language_editions": [
+    "en",
+    "zh"
+  ],
+  "reports_per_language": 11,
+  "language_parity": "same report section structure, diagram geometry, numeric table cells and raw JSON",
+  "english_text_contains_no_chinese": true,
+  "static_browser_checks": 46,
+  "live_routes_checked_in_both_languages": 6,
+  "language_switch_preserves_case": true,
+  "links_and_anchors_checked_pages": 23,
+  "mathematical_source_data_certificates_provenance_unchanged_files": 32,
+  "cli_language_options": "PASS",
+  "notebook_code_compilation": "PASS",
+  "wheel_build": "PASS",
+  "mathematical_backend_changed": false
+}
